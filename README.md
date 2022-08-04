@@ -1,5 +1,5 @@
 # XieCheng_AirlineScrapy
-Code to get XieCheng Airline 90 days lowest price every hour, run script for 30 days and for future data analysis.
+Code to get 90 days lowest price of four cities every hour, run script automaticlly by deploy it in Cloud server. Prepare for future data analysis.
 
 ## What this code do
 When you want to buy airline tickets in XieCheng, after you pick origin, destination and date you will see two sections, 
